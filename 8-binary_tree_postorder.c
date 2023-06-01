@@ -4,7 +4,7 @@
  * binary_tree_postorder - a function
  * that goes throught in post-order mode
  *
- * @tree - a pointer to the root
+ * @tree: a pointer to the root
  * @func: a pointer to the function
  * Return: nothing
  */
